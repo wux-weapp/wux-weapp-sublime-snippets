@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-qrcode width="${1:200}" height="${2:200}" data="${3}" />
+]]></content>
+	<tabTrigger>w-qrcode</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Qrcode</description>
+</snippet>

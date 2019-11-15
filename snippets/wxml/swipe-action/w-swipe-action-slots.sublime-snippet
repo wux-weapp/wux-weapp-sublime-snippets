@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<wux-swipe-action>
+	${1:<view slot="left">${2}</view>}
+	${3:<view slot="right">${4}</view>}
+</wux-swipe-action>
+]]></content>
+	<tabTrigger>w-swipe-action:slots</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: SwipeAction</description>
+</snippet>

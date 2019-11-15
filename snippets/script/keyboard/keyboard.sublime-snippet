@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+\$wuxKeyBoard().show({
+	titleText: '${1:安全键盘}',
+	cancelText: '${2:取消}',
+	inputText: '${3:输入数字密码}',
+	onClose(value) {
+		$4
+		return true
+	},
+})
+]]></content>
+	<tabTrigger>wuxKeyBoard</tabTrigger>
+	<scope>source.js</scope>
+	<description>Wux Weapp: $wuxKeyBoard</description>
+</snippet>

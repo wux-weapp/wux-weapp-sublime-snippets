@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-icon type="logo-${2:tumblr}" size="${3:32}" />
+]]></content>
+	<tabTrigger>w-icon:logos-tumblr</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Icon</description>
+</snippet>

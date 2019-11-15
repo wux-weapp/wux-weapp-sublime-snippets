@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-cascader defaultValue="${1}" visible="${2}" ${3:title="${4}"} ${5:options="${6}"} />
+]]></content>
+	<tabTrigger>w-cascader</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Cascader</description>
+</snippet>

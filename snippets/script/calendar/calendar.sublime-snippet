@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+\$wuxCalendar().open({
+	value: '${1}',
+	onChange(values, displayValues) {
+		$2
+	},
+})
+]]></content>
+	<tabTrigger>wuxCalendar</tabTrigger>
+	<scope>source.js</scope>
+	<description>Wux Weapp: $wuxCalendar</description>
+</snippet>

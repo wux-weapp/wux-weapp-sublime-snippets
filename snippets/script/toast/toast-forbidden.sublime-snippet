@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+\$wuxToast().show({
+	type: '${1:forbidden}',
+	duration: ${2:1500},
+	color: '${3:#fff}',
+	text: '${4}',
+	success() {
+		$5
+	},
+})
+]]></content>
+	<tabTrigger>wuxToast:forbidden</tabTrigger>
+	<scope>source.js</scope>
+	<description>Wux Weapp: $wuxToast</description>
+</snippet>

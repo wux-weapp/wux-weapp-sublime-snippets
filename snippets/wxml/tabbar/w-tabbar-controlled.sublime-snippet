@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<wux-tabbar ${1:theme="${2:balanced}"} current="${3}" controlled ${4:bind:change="${5:onTabBarChange}"}>
+	${0}
+</wux-tabbar>
+]]></content>
+	<tabTrigger>w-tabbar:controlled</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: TabBar</description>
+</snippet>

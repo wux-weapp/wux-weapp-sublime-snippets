@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<wux-col ${1:span="${2:0}"} ${3:pull="${4:0}"} ${5:push="${6:0}"} ${7:offset="${8:0}"}>
+	${0}
+</wux-col>
+]]></content>
+	<tabTrigger>w-col</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Col</description>
+</snippet>

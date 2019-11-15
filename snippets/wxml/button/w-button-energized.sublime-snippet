@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-button ${1:theme="${2:energized}"}>${0}</wux-button>
+]]></content>
+	<tabTrigger>w-button:energized</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Button</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-slider defaultValue="${1}" min="${2:0}" max="${3:100}" step="${4:1}" />
+]]></content>
+	<tabTrigger>w-slider</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Slider</description>
+</snippet>

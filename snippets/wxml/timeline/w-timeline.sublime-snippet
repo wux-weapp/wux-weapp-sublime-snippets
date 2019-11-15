@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<wux-timeline ${1:position="${2:left}"} ${3:pending}>
+	${0}
+</wux-timeline>
+]]></content>
+	<tabTrigger>w-timeline</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Timeline</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-skeleton-paragraph rows="${1:3}" ${2:rounded} />
+]]></content>
+	<tabTrigger>w-skeleton-paragraph</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Skeleton Paragraph</description>
+</snippet>

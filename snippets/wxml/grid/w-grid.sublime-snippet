@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-grid ${1:thumb="${2}"} ${3:label="${4}"}></wux-grid>
+]]></content>
+	<tabTrigger>w-grid</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Grid</description>
+</snippet>

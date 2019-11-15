@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<wux-index-item name="${1}">
+	${0}
+</wux-index-item>
+]]></content>
+	<tabTrigger>w-index-item</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Index Item</description>
+</snippet>

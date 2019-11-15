@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<wux-row gutter="${1:0}">
+	${0}
+</wux-row>
+]]></content>
+	<tabTrigger>w-row</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Row</description>
+</snippet>

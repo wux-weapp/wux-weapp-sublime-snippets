@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+\$wuxDialog().open({
+	title: '${1}',
+	content: '${2}',
+	buttons: ${3:[]},
+})
+]]></content>
+	<tabTrigger>wuxDialog</tabTrigger>
+	<scope>source.js</scope>
+	<description>Wux Weapp: $wuxDialog</description>
+</snippet>

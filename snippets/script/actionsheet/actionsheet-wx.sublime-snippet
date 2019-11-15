@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+\$wuxActionSheet().showSheet({
+	theme: '${1:wx}',
+	titleText: '${2}',
+	buttons: ${3:[]},
+	buttonClicked(index, item) {
+		$4
+	},
+	cancelText: '${5:取消}',
+	cancel() {},
+	destructiveText: '${6:删除}',
+	destructiveButtonClicked() {},
+})
+]]></content>
+	<tabTrigger>wuxActionSheet:wx</tabTrigger>
+	<scope>source.js</scope>
+	<description>Wux Weapp: $wuxActionSheet</description>
+</snippet>

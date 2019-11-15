@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-rater value="${1}" max="${2:5}" controlled ${3:bind:change="${4:onRaterChange}"} />
+]]></content>
+	<tabTrigger>w-rater:controlled</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Rater</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-notice-bar loop ${1:speed="${2:25}"} ${3:content="${4}"}></wux-notice-bar>
+]]></content>
+	<tabTrigger>w-notice-bar:loop</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: NoticeBar</description>
+</snippet>

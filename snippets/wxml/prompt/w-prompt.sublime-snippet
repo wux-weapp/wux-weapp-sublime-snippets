@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-prompt ${1:icon="${2}"} ${3:title="${4}"} ${5:text="${6}"} ${7:buttons="${8}"} />
+]]></content>
+	<tabTrigger>w-prompt</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Prompt</description>
+</snippet>

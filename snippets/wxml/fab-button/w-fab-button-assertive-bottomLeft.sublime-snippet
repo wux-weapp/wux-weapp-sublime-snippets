@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-fab-button ${1:theme="${2:assertive}"} ${3:position="${4:bottomLeft}"} buttons="${5}" />
+]]></content>
+	<tabTrigger>w-fab-button:assertive-bottomLeft</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: FabButton</description>
+</snippet>

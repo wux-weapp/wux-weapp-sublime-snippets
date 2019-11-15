@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<wux-grids col="${1:3}">
+	${0}
+</wux-grids>
+]]></content>
+	<tabTrigger>w-grids</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Grids</description>
+</snippet>

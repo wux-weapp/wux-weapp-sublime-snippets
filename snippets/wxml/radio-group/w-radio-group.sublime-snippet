@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<wux-radio-group>
+	${0}
+</wux-radio-group>
+]]></content>
+	<tabTrigger>w-radio-group</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Radio Group</description>
+</snippet>

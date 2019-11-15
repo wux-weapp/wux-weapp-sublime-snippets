@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<wux-badge dot>
+	${0}
+</wux-badge>
+]]></content>
+	<tabTrigger>w-badge:dot</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Badge Dot</description>
+</snippet>

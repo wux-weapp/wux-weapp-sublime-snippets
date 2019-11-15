@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-barcode number="${1}" width="${2:200}" height="${3:100}"></wux-barcode>
+]]></content>
+	<tabTrigger>w-barcode</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Barcode</description>
+</snippet>

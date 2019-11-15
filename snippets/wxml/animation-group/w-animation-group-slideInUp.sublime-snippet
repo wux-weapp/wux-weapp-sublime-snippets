@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<wux-animation-group ${1:classNames="wux-animate--${2:slideInUp}"} in="${3}">
+	${0}
+</wux-animation-group>
+]]></content>
+	<tabTrigger>w-animation-group:slideInUp</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: AnimationGroup</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-keyboard id="${1:wux-keyboard}" />
+]]></content>
+	<tabTrigger>w-keyboard</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: KeyBoard</description>
+</snippet>

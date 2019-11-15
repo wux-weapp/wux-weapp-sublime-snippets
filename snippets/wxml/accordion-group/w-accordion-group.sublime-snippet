@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<wux-accordion-group>
+	${0}
+</wux-accordion-group>
+]]></content>
+	<tabTrigger>w-accordion-group</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Accordion Group</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<wux-refresher id="${1:wux-refresher}" ${2:bind:refresh="${3:onRefresh}"}>
+	${0}
+</wux-refresher>
+]]></content>
+	<tabTrigger>w-refresher</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Refresher</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-icon type="${1:md}-${2:snow}" size="${3:32}" />
+]]></content>
+	<tabTrigger>w-icon:md-snow</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Icon</description>
+</snippet>

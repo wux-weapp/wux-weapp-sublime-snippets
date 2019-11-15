@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<wux-tabs ${1:theme="${2:stable}"} defaultCurrent="${3}">
+	${0}
+</wux-tabs>
+]]></content>
+	<tabTrigger>w-tabs:stable</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Tabs</description>
+</snippet>

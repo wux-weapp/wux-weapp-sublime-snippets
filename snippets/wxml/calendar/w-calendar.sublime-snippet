@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-calendar id="${1:wux-calendar}" />
+]]></content>
+	<tabTrigger>w-calendar</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Calendar</description>
+</snippet>

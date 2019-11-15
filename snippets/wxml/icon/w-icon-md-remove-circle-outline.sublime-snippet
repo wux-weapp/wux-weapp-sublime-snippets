@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-icon type="${1:md}-${2:remove-circle-outline}" size="${3:32}" />
+]]></content>
+	<tabTrigger>w-icon:md-remove-circle-outline</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Icon</description>
+</snippet>

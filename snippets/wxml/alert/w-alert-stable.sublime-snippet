@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-alert ${1:theme="${2:stable}"} title="${3}" />
+]]></content>
+	<tabTrigger>w-alert:stable</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Alert</description>
+</snippet>

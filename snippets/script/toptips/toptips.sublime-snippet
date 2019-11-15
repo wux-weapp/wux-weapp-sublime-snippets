@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+\$wuxToptips().show({
+	icon: '${1:success}',
+	duration: ${2:3000},
+	text: '${3}',
+	success() {
+		$4
+	},
+})
+]]></content>
+	<tabTrigger>wuxToptips</tabTrigger>
+	<scope>source.js</scope>
+	<description>Wux Weapp: $wuxToptips</description>
+</snippet>

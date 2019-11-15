@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-icon type="${1:md}-${2:cut}" size="${3:32}" />
+]]></content>
+	<tabTrigger>w-icon:md-cut</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Icon</description>
+</snippet>

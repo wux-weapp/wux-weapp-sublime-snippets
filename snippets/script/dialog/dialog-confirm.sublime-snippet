@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+\$wuxDialog().confirm({
+	title: '${1}',
+	content: '${2}',
+	onConfirm(e) {
+		$3
+	},
+	onCancel(e) {
+		$4
+	},
+})
+]]></content>
+	<tabTrigger>wuxDialog:confirm</tabTrigger>
+	<scope>source.js</scope>
+	<description>Wux Weapp: $wuxDialog</description>
+</snippet>

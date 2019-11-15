@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-timeline-item ${1:content="${2}"}></wux-timeline-item>
+]]></content>
+	<tabTrigger>w-timeline-item</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Timeline Item</description>
+</snippet>

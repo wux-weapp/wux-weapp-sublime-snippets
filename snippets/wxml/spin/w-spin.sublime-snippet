@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-spin ${1:size="${2:default}"} ${3:tip="${4}"} />
+]]></content>
+	<tabTrigger>w-spin</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Spin</description>
+</snippet>

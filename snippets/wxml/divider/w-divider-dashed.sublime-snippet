@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-divider ${1:position="${2:center}"} ${3:text="${4}"} dashed></wux-divider>
+]]></content>
+	<tabTrigger>w-divider:dashed</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Divider</description>
+</snippet>

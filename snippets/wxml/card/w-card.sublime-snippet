@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<wux-card title="${1}" ${2:extra="${3}"}>
+	${0}
+</wux-card>
+]]></content>
+	<tabTrigger>w-card</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Card</description>
+</snippet>

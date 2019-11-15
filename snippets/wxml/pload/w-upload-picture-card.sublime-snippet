@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<wux-upload ${1:listType="${2:picture-card}"} url="${3}">
+	${0}
+</wux-upload>
+]]></content>
+	<tabTrigger>w-upload:picture-card</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Upload</description>
+</snippet>

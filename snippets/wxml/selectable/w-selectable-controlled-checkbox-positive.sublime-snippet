@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-selectable ${1:type="${2:checkbox}"} ${3:color="${4:positive}"} value="${5}" checked="${6}" controlled ${7:bind:change="${8:onSelectableChange}"} />
+]]></content>
+	<tabTrigger>w-selectable:controlled-checkbox-positive</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Selectable</description>
+</snippet>

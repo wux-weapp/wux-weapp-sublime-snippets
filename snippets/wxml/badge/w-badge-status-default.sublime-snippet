@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-badge ${1:status="${2:default}"} ${3:text="${4}"} />
+]]></content>
+	<tabTrigger>w-badge:status-default</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Badge Status</description>
+</snippet>

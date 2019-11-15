@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-navbar ${1:theme="${2:light}"} ${3:leftText="${4}"} ${5:title="${6}"} ${7:rightText="${8}"}></wux-navbar>
+]]></content>
+	<tabTrigger>w-navbar</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: NavBar</description>
+</snippet>

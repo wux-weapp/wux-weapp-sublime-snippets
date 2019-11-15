@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<wux-spin ${1:size="${2:default}"} ${3:tip="${4}"} ${5:spinning} nested>
+	${0}
+</wux-spin>
+]]></content>
+	<tabTrigger>w-spin:nested-default</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Spin</description>
+</snippet>

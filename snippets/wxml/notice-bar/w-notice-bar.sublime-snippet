@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-notice-bar ${1:content="${2}"}></wux-notice-bar>
+]]></content>
+	<tabTrigger>w-notice-bar</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: NoticeBar</description>
+</snippet>

@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+\$wuxGallery().show({
+	current: '${1}',
+	urls: ${2:[]},
+	delete(current, urls) {
+		$3
+		return true
+	},
+	onTap(current, urls) {
+		$4
+		return true
+	},
+})
+]]></content>
+	<tabTrigger>wuxGallery</tabTrigger>
+	<scope>source.js</scope>
+	<description>Wux Weapp: $wuxGallery</description>
+</snippet>

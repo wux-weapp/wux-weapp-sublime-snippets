@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-search-bar defaultValue="${1}" placeholder="${2}" ${3:maxlength="${4:140}"} />
+]]></content>
+	<tabTrigger>w-search-bar</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: SearchBar</description>
+</snippet>

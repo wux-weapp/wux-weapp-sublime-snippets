@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+\$wuxDialog().alert({
+	title: '${1}',
+	content: '${2}',
+	onConfirm(e) {
+		$3
+	},
+})
+]]></content>
+	<tabTrigger>wuxDialog:alert</tabTrigger>
+	<scope>source.js</scope>
+	<description>Wux Weapp: $wuxDialog</description>
+</snippet>

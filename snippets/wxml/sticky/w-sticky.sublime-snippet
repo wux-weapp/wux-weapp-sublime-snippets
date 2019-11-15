@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<wux-sticky scrollTop="${1}">
+	${0}
+</wux-sticky>
+]]></content>
+	<tabTrigger>w-sticky</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Sticky</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-progress ${1:status="${2:normal}"} ${3:status="${4:round}"} percent="${5:0}" />
+]]></content>
+	<tabTrigger>w-progress:shape-normal-round</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Progress</description>
+</snippet>

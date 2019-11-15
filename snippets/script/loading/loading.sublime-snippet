@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+\$wuxLoading().show({
+	text: '${1:数据加载中}',
+})
+]]></content>
+	<tabTrigger>wuxLoading</tabTrigger>
+	<scope>source.js</scope>
+	<description>Wux Weapp: $wuxLoading</description>
+</snippet>

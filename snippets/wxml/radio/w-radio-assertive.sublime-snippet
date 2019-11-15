@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-radio ${1:color="${2:assertive}"} value="${3}" />
+]]></content>
+	<tabTrigger>w-radio:assertive</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Radio</description>
+</snippet>

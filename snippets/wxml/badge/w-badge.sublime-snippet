@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<wux-badge count="${1:0}" overflowCount="${2:99}" ${3:showZero}>
+	${0}
+</wux-badge>
+]]></content>
+	<tabTrigger>w-badge</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Badge</description>
+</snippet>

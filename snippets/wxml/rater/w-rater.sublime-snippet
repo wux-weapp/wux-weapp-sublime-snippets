@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-rater defaultValue="${1}" max="${2:5}" />
+]]></content>
+	<tabTrigger>w-rater</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Rater</description>
+</snippet>

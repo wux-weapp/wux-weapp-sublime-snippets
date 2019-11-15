@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-tag color="${1}" ${2:closable} visible="${3}" controlled ${4:bind:change="${5:onTagChange}"}>${0}</wux-tag>
+]]></content>
+	<tabTrigger>w-tag:controlled</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Tag</description>
+</snippet>

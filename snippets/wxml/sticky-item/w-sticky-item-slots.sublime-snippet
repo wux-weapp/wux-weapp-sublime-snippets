@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<wux-sticky-item>
+	${1:<view slot="title">${2}</view>}
+	${3:<view slot="content">${4}</view>}
+</wux-sticky-item>
+]]></content>
+	<tabTrigger>w-sticky-item:slots</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Sticky Item</description>
+</snippet>

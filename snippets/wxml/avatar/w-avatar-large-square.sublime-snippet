@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-avatar ${1:size="${2:large}"} ${3:size="${4:square}"}>${5}</wux-avatar>
+]]></content>
+	<tabTrigger>w-avatar:large-square</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Avatar Text</description>
+</snippet>

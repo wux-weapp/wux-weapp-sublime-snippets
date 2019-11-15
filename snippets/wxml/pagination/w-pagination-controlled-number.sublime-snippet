@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<wux-pagination ${1:mode="${2:number}"} current="${3}" total="${4}" controlled ${5:bind:change="${6:onPaginationChange}"}>
+	${7:<view slot="prev">${8:Prev}</view>}
+	${9:<view slot="next">${10:Next}</view>}
+</wux-pagination>
+]]></content>
+	<tabTrigger>w-pagination:controlled-number</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Pagination</description>
+</snippet>

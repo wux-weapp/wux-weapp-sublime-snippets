@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<wux-skeleton ${1:active}>
+	${0}
+</wux-skeleton>
+]]></content>
+	<tabTrigger>w-skeleton</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Skeleton</description>
+</snippet>

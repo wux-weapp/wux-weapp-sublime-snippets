@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<wux-cell-group>
+	${0}
+</wux-cell-group>
+]]></content>
+	<tabTrigger>w-cell-group</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Cell Group</description>
+</snippet>

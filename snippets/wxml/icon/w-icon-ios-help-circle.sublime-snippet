@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-icon type="${1:ios}-${2:help-circle}" size="${3:32}" />
+]]></content>
+	<tabTrigger>w-icon:ios-help-circle</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Icon</description>
+</snippet>

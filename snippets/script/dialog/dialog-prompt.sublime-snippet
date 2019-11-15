@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+\$wuxDialog().prompt({
+	title: '${1}',
+	content: '${2}',
+	fieldtype: '${3:text}',
+	password: ${4:false},
+	defaultText: '${5}',
+	placeholder: '${6}',
+	maxlength: ${7:-1},
+	onConfirm(e, response) {
+		$8
+	},
+})
+]]></content>
+	<tabTrigger>wuxDialog:prompt</tabTrigger>
+	<scope>source.js</scope>
+	<description>Wux Weapp: $wuxDialog</description>
+</snippet>

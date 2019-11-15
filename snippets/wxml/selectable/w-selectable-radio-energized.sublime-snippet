@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-selectable ${1:type="${2:radio}"} ${3:color="${4:energized}"} value="${5}" />
+]]></content>
+	<tabTrigger>w-selectable:radio-energized</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Selectable</description>
+</snippet>

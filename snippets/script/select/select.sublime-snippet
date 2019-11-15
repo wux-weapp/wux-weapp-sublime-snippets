@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+\$wuxSelect().open({
+	value: '${1}',
+	options: ${2:[]},
+	multiple: ${3:false},
+	onConfirm(value, index, options) {
+		$4
+	},
+})
+]]></content>
+	<tabTrigger>wuxSelect</tabTrigger>
+	<scope>source.js</scope>
+	<description>Wux Weapp: $wuxSelect</description>
+</snippet>

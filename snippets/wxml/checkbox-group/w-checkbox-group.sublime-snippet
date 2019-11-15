@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<wux-checkbox-group>
+	${0}
+</wux-checkbox-group>
+]]></content>
+	<tabTrigger>w-checkbox-group</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Checkbox Group</description>
+</snippet>

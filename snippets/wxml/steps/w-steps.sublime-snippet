@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<wux-steps>
+	${0}
+</wux-steps>
+]]></content>
+	<tabTrigger>w-steps</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Steps</description>
+</snippet>

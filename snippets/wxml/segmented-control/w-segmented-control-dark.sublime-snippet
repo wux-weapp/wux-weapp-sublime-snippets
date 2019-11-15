@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-segmented-control ${1:theme="${2:dark}"} defaultCurrent="${3}" values="${4}" />
+]]></content>
+	<tabTrigger>w-segmented-control:dark</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: SegmentedControl</description>
+</snippet>

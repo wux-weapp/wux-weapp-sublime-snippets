@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$wuxBackdrop.${1:release}()
+]]></content>
+	<tabTrigger>wuxBackdrop:release</tabTrigger>
+	<scope>source.js</scope>
+	<description>Wux Weapp: $wuxBackdrop</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<wux-swipe-action-group>
+	${0}
+</wux-swipe-action-group>
+]]></content>
+	<tabTrigger>w-swipe-action-group</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: SwipeActionGroup</description>
+</snippet>

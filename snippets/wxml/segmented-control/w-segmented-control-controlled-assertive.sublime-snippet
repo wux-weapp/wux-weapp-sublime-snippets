@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-segmented-control ${1:theme="${2:assertive}"} current="${3}" values="${4}" controlled ${5:bind:change="${6:onSegmentChange}"} />
+]]></content>
+	<tabTrigger>w-segmented-control:controlled-assertive</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: SegmentedControl</description>
+</snippet>

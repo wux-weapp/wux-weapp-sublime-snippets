@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-result ${1:icon="${2:success}"} ${3:title="${4}"} ${5:label="${6}"} ${7:buttons="${8}"} />
+]]></content>
+	<tabTrigger>w-result:success</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Result</description>
+</snippet>

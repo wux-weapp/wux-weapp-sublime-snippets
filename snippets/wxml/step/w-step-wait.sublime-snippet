@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-step ${1:status="${2:wait}"} ${3:title="${4}"} ${5:content="${6}"} />
+]]></content>
+	<tabTrigger>w-step:wait</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Step</description>
+</snippet>

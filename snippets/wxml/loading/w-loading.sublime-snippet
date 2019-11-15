@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-loading id="${1:wux-loading}" />
+]]></content>
+	<tabTrigger>w-loading</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Loading</description>
+</snippet>

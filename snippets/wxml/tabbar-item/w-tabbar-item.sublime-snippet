@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<wux-tabbar-item ${1:key="${2}"} ${3:title="${4}"}>
+	${0}
+</wux-tabbar-item>
+]]></content>
+	<tabTrigger>w-tabbar-item</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: TabBar Item</description>
+</snippet>

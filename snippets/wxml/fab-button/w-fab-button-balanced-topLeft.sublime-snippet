@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-fab-button ${1:theme="${2:balanced}"} ${3:position="${4:topLeft}"} buttons="${5}" />
+]]></content>
+	<tabTrigger>w-fab-button:balanced-topLeft</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: FabButton</description>
+</snippet>

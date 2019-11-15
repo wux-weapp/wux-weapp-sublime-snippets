@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-vcode width="${1:120}" height="${2:40}" num="${3:6}" />
+]]></content>
+	<tabTrigger>w-vcode</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Vcode</description>
+</snippet>

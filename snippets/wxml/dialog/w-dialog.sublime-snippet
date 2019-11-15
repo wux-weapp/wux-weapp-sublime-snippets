@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-dialog id="${1:wux-dialog}" />
+]]></content>
+	<tabTrigger>w-dialog</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Dialog</description>
+</snippet>

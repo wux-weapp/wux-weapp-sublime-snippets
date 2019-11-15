@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-accordion ${1:key="${2}"} ${3:title="${4}"} ${5:content="${6}"}></wux-accordion>
+]]></content>
+	<tabTrigger>w-accordion</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Accordion</description>
+</snippet>

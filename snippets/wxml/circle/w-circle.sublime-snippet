@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-circle percent="${1}" ${2:color="${3:#33cd5f}"} ${4:backgroundColor="${5:#f3f3f3}"}>${0}</wux-circle>
+]]></content>
+	<tabTrigger>w-circle</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Circle</description>
+</snippet>

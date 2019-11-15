@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-cell title="${1}" openType="${2:getUserInfo}" isLink />
+]]></content>
+	<tabTrigger>w-cell:openType-getUserInfo</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Cell</description>
+</snippet>

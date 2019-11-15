@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-actionsheet id="${1:wux-actionsheet}" />
+]]></content>
+	<tabTrigger>w-actionsheet</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: ActionSheet</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<wux-wing-blank ${1:size="${2:small}"}>
+	${0}
+</wux-wing-blank>
+]]></content>
+	<tabTrigger>w-wing-blank:small</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: WingBlank</description>
+</snippet>

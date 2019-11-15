@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-toast id="${1:wux-toast}" />
+]]></content>
+	<tabTrigger>w-toast</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Toast</description>
+</snippet>

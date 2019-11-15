@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<wux-index height="${1:300}" ${2:showIndicator}>
+	${0}
+</wux-index>
+]]></content>
+	<tabTrigger>w-index</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Index</description>
+</snippet>

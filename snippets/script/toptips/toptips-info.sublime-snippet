@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+\$wuxToptips().info({
+	duration: ${1:3000},
+	text: '${2}',
+	success() {
+		$3
+	},
+})
+]]></content>
+	<tabTrigger>wuxToptips:info</tabTrigger>
+	<scope>source.js</scope>
+	<description>Wux Weapp: $wuxToptips</description>
+</snippet>

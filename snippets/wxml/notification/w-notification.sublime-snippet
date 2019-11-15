@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-notification id="${1:wux-notification}" />
+]]></content>
+	<tabTrigger>w-notification</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Notification</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-gallery id="${1:wux-gallery}" />
+]]></content>
+	<tabTrigger>w-gallery</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Gallery</description>
+</snippet>

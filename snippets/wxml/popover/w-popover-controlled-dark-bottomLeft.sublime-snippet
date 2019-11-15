@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<wux-popover ${1:theme="${2:dark}"} ${3:placement="${4:bottomLeft}"} ${5:title="${6}"} ${7:content="${8}"} visible="${9}" controlled ${10:bind:change="${11:onPopoverChange}"}>
+	${0}
+</wux-popover>
+]]></content>
+	<tabTrigger>w-popover:controlled-dark-bottomLeft</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Popover</description>
+</snippet>

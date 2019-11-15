@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-search-bar value="${1}" placeholder="${2}" ${3:maxlength="${4:140}"} ${5:bind:change="${6:onSearchBarChange}"} />
+]]></content>
+	<tabTrigger>w-search-bar:controlled</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: SearchBar</description>
+</snippet>

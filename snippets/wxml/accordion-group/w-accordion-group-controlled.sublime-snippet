@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<wux-accordion-group current="${1}" controlled ${2:bind:change="${3:onAccordionChange}"}>
+	${0}
+</wux-accordion-group>
+]]></content>
+	<tabTrigger>w-accordion-group:controlled</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Accordion Group</description>
+</snippet>

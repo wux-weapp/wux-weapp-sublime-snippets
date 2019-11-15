@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-input-number ${1:color="${2:assertive}"} defaultValue="${3}" />
+]]></content>
+	<tabTrigger>w-input-number:assertive</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: InputNumber</description>
+</snippet>

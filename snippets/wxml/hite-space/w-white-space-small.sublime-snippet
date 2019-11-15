@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-white-space ${1:size="${2:small}"} />
+]]></content>
+	<tabTrigger>w-white-space:small</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: WhiteSpace</description>
+</snippet>

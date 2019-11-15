@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-filterbar items="${1}" ${2:bind:change="${3:onFilterBarChange}"} />
+]]></content>
+	<tabTrigger>w-filterbar</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: FilterBar</description>
+</snippet>

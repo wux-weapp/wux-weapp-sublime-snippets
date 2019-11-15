@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-media ${1:align="${2:end}"} ${3:title="${4}"} ${5:thumb="${6}"} ${7:label="${8}"} />
+]]></content>
+	<tabTrigger>w-media:end</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Media</description>
+</snippet>

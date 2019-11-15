@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-input-number ${1:color="${2:royal}"} value="${3}" controlled ${4:bind:change="${5:onInputNumberChange}"} />
+]]></content>
+	<tabTrigger>w-input-number:controlled-royal</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: InputNumber</description>
+</snippet>

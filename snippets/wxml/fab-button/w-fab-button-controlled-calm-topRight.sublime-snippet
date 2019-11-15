@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-fab-button ${1:theme="${2:calm}"} ${3:position="${4:topRight}"} buttons="${5}" visible="${6}" controlled ${7:bind:change="${8:onFabButtonChange}"} />
+]]></content>
+	<tabTrigger>w-fab-button:controlled-calm-topRight</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: FabButton</description>
+</snippet>

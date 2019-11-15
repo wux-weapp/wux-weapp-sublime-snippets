@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-icon type="${1:md}-${2:calendar}" size="${3:32}" />
+]]></content>
+	<tabTrigger>w-icon:md-calendar</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Icon</description>
+</snippet>

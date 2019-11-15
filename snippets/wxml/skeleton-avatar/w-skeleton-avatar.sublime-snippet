@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-skeleton-avatar />
+]]></content>
+	<tabTrigger>w-skeleton-avatar</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Skeleton Avatar</description>
+</snippet>

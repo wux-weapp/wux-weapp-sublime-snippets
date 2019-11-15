@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-checkbox ${1:color="${2:stable}"} value="${3}" />
+]]></content>
+	<tabTrigger>w-checkbox:stable</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Checkbox</description>
+</snippet>

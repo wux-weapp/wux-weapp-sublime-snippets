@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<wux-tabbar ${1:theme="${2:royal}"} defaultCurrent="${3}">
+	${0}
+</wux-tabbar>
+]]></content>
+	<tabTrigger>w-tabbar:royal</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: TabBar</description>
+</snippet>

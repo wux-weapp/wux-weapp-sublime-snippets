@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-selectable ${1:type="${2:radio}"} ${3:color="${4:light}"} value="${5}" checked="${6}" controlled ${7:bind:change="${8:onSelectableChange}"} />
+]]></content>
+	<tabTrigger>w-selectable:controlled-radio-light</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Selectable</description>
+</snippet>

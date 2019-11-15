@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-switch ${1:color="${2:stable}"} value="${3}" />
+]]></content>
+	<tabTrigger>w-switch:stable</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Switch</description>
+</snippet>

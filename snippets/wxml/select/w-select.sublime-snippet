@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-select id="${1:wux-select}" />
+]]></content>
+	<tabTrigger>w-select</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Select</description>
+</snippet>

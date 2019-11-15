@@ -1,0 +1,16 @@
+=============================================
+Wux Weapp Snippets - Has been updated !!
+=============================================
+
+Added & Updated features
+------------------------
+ - Added "w-button"
+ - Added "w-button:stable"
+ - Added "w-icon"
+
+Documentation, examples & issue filing can be found here:
+https://github.com/wux-weapp/wux-weapp-sublime-snippets
+
+------------------------------
+Follow me on Github: @skyvow
+------------------------------

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-tab ${1:key="${2}"} ${3:title="${4}"}></wux-tab>
+]]></content>
+	<tabTrigger>w-tab</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Tab</description>
+</snippet>

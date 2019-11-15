@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+\$wuxNotification().show({
+	image: '${1}',
+	title: '${2}',
+	text: '${3}',
+	data: ${4:''},
+	duration: ${5:3000},
+	onClick(data) {
+		$6
+	},
+	onClose(data) {
+		$7
+	},
+})
+]]></content>
+	<tabTrigger>wuxNotification</tabTrigger>
+	<scope>source.js</scope>
+	<description>Wux Weapp: $wuxNotification</description>
+</snippet>

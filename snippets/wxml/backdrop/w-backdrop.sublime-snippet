@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-backdrop id="${1:wux-backdrop}" />
+]]></content>
+	<tabTrigger>w-backdrop</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Backdrop</description>
+</snippet>

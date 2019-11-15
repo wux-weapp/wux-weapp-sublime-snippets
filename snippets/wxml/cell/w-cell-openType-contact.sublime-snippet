@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-cell title="${1}" openType="${2:contact}" isLink />
+]]></content>
+	<tabTrigger>w-cell:openType-contact</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Cell</description>
+</snippet>

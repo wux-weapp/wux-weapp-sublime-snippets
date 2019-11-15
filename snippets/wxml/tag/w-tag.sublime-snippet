@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-tag color="${1}" ${2:closable}>${0}</wux-tag>
+]]></content>
+	<tabTrigger>w-tag</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Tag</description>
+</snippet>
