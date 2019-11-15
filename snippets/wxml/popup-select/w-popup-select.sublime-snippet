@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-popup-select value="${1}" options="${2}" ${3:bind:change="${4:onPopupSelectChange}"} />
+]]></content>
+	<tabTrigger>w-popup-select</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: PopupSelect</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<wux-virtual-item wx:for="{{ ${1:virtual.items} }}" wx:key="">
+	${0}
+</wux-virtual-item>
+]]></content>
+	<tabTrigger>w-virtual-item</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: VirtualList</description>
+</snippet>

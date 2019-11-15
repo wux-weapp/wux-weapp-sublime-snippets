@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<wux-avatar ${1:size="${2:small}"} ${3:size="${4:square}"}>${5}</wux-avatar>
+<wux-avatar ${1:size="${2:small}"} ${3:shape="${4:square}"}>${5}</wux-avatar>
 ]]></content>
 	<tabTrigger>w-avatar:small-square</tabTrigger>
 	<scope>text.html</scope>

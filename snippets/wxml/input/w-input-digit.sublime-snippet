@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-input defaultValue="${1}" ${2:type="${3:digit}"} />
+]]></content>
+	<tabTrigger>w-input:digit</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Input</description>
+</snippet>

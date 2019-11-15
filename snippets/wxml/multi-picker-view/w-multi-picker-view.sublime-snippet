@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-multi-picker-view value="${1}" options="${2}" ${3:bind:valueChange="${4:onMultiPickerViewChange}"} />
+]]></content>
+	<tabTrigger>w-multi-picker-view</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: MultiPickerView</description>
+</snippet>

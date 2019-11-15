@@ -1,7 +1,7 @@
 {
   "name": "wux-weapp-sublime-snippets",
   "description": "Wux Weapp Snippets Plugin for Sublime Text 2/3.",
-  "version": "0.0.3",
+  "version": "0.0.6",
   "homepage": "https://github.com/wux-weapp/wux-weapp-sublime-snippets/blob/master/README.md",
   "bugs": {
     "url": "https://github.com/wux-weapp/wux-weapp-sublime-snippets/issues"
@@ -12,7 +12,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "wux-weapp-snippets": "^0.0.3"
+    "wux-weapp-snippets": "^0.0.6"
   },
   "scripts": {
     "build": "node ./build/generateSinppet.js"

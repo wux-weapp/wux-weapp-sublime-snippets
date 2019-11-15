@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<wux-field name="${1}" ${2:initialValue="${3}"}>
+	<wux-radio-group ${4:options="${5}"}>${0}</wux-radio-group>
+</wux-field>
+]]></content>
+	<tabTrigger>w-field:radio</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Field</description>
+</snippet>

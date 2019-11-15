@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-cascader-picker-view value="${1}" options="${2}" ${3:bind:valueChange="${4:onCascaderPickerViewChange}"} />
+]]></content>
+	<tabTrigger>w-cascader-picker-view</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: CascaderPickerView</description>
+</snippet>

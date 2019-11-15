@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-date-picker ${1:mode="${2:date}"} value="${3}" visible="${4}" controlled ${5:bind:visibleChange="${6:onDatePickerVisibleChange}"} ${7:bind:change="${8:onDatePickerChange}"} />
+]]></content>
+	<tabTrigger>w-date-picker:controlled-date</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: DatePicker</description>
+</snippet>

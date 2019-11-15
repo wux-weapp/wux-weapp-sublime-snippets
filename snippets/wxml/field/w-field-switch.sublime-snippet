@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<wux-field name="${1}" ${2:initialValue="${3}"} valuePropName="inputChecked">
+	<wux-switch />
+</wux-field>
+]]></content>
+	<tabTrigger>w-field:switch</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Field</description>
+</snippet>

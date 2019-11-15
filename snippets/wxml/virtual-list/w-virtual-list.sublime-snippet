@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<wux-virtual-list id="${1:wux-virtual-list}" ${2:bind:change="${3:onVirtualListChange}"}>
+	${0}
+</wux-virtual-list>
+]]></content>
+	<tabTrigger>w-virtual-list</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: VirtualList</description>
+</snippet>

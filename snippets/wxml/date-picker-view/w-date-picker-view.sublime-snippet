@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-date-picker-view ${1:mode="${2:datetime}"} value="${3}" ${4:bind:valueChange="${5:onDatePickerViewChange}"} />
+]]></content>
+	<tabTrigger>w-date-picker-view</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: DatePickerView</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<wux-form id="${1:wux-form}" ${2:bind:change="${3:onFormChange}"}>
+	${0}
+</wux-form>
+]]></content>
+	<tabTrigger>w-form</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Form</description>
+</snippet>

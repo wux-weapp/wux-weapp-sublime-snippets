@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-textarea defaultValue="${1}" ${2:rows="${3:3}"} />
+]]></content>
+	<tabTrigger>w-textarea:3</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Textarea</description>
+</snippet>

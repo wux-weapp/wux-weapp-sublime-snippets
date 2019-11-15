@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-input value="${1}" ${2:type="${3:text}"} controlled ${4:bind:change="${5:onInputChange}"} />
+]]></content>
+	<tabTrigger>w-input:controlled-text</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Input</description>
+</snippet>

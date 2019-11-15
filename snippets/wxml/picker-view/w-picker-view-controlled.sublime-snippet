@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-picker-view value="${1}" options="${2}" controlled ${3:bind:valueChange="${4:onPickerViewChange}"} />
+]]></content>
+	<tabTrigger>w-picker-view:controlled</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: PickerView</description>
+</snippet>

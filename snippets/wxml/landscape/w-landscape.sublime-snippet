@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<wux-landscape visible="${1}" bind:close="${2:onLandscapeClose}">
+	${0}
+</wux-landscape>
+]]></content>
+	<tabTrigger>w-landscape</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Landscape</description>
+</snippet>

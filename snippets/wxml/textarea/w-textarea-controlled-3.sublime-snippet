@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<wux-textarea value="${1}" ${2:rows="${3:3}"} controlled ${4:bind:change="${5:onTextareaChange}"} />
+]]></content>
+	<tabTrigger>w-textarea:controlled-3</tabTrigger>
+	<scope>text.html</scope>
+	<description>Wux Weapp: Textarea</description>
+</snippet>
